@@ -1,0 +1,111 @@
+# Zara Sales Data Analysis (EDA)
+
+## Project Overview
+
+This project performs **Exploratory Data Analysis (EDA)** on Zara sales data to uncover meaningful insights, trends, and patterns in customer purchasing behavior.
+
+The main objective is to transform raw data into actionable business insights that can support decision-making.
+
+---
+
+## Objectives
+
+* Understand customer purchasing behavior
+* Identify top-performing product categories
+* Analyze the relationship between price and sales
+* Generate data-driven business recommendations
+
+---
+
+## Dataset
+
+The dataset contains information related to:
+
+* Product categories
+* Pricing
+* Sales performance
+* Customer preferences
+
+---
+
+## Tools & Technologies
+
+* Python 
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
+## Analysis Performed
+
+* Data Cleaning & Preprocessing
+* Handling Missing Values & Duplicates
+* Sales Distribution Analysis
+* Category-wise Sales Analysis
+* Price vs Sales Relationship
+* Correlation Analysis
+
+---
+
+## Key Insights
+
+* Certain product categories contribute significantly to overall sales
+* Moderate pricing attracts more customers compared to extreme price ranges
+* Sales distribution is uneven, indicating demand variation
+* Some variables show strong correlations affecting sales performance
+
+---
+
+## Business Recommendations
+
+* Focus inventory on high-performing product categories
+* Optimize pricing strategy to maximize conversions
+* Use targeted marketing for popular customer segments
+* Improve or re-evaluate low-performing categories
+
+---
+
+## Sample Visualizations
+
+(Add screenshots of your graphs here)
+
+---
+
+## How to Run the Project
+
+1. Clone the repository
+2. Install required libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open the notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+
+---
+
+## Project Structure
+
+```
+Zara-Sales-EDA/
+│
+├── data/
+├── notebooks/
+├── images/
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+
+## ⭐ Future Improvements
+
+* Build an interactive dashboard using Power BI
+* Perform predictive analysis (sales forecasting)
+* Deploy the project using Streamlit
